@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Pine</string>
+    <string name="search">Search</string>
+    <string name="logo">Logotype</string>
+    <string name="no_connection">No connection</string>
+    <string name="no_connection_try_again">Check internet connection and try again</string>
+    <string name="nothing_found">Nothing found</string>
+    <string name="nothing_found_try_again">Change keyword and try again</string>
+    <!-- TODO: Remove or change this placeholder text -->
 </resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pine</string>
+    <string name="search">Поиск</string>
+    <string name="logo">Логотип</string>
+    <string name="no_connection">Нет подключения к интернету</string>
+    <string name="no_connection_try_again">Проверьте подключение к интернету и попробуйте снова</string>
+    <string name="nothing_found">Ничего не найдено</string>
+    <string name="nothing_found_try_again">Измените запрос и попробуйте снова</string>
+</resources>
